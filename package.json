@@ -4,6 +4,7 @@
   "description": "A react component for subscribing to pusher channels",
   "repository": "https://github.com/rainforestapp/react-pusher",
   "main": "dist/index.js",
+  "module": "index.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint ./index.js __tests__/index.js",
